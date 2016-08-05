@@ -20,6 +20,9 @@ import android.widget.Button;
 
 import com.example.knothing.androidanydemo.messenger.MessengerService;
 
+/**
+ * DEMO总的汇总入口
+ */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     private Messenger activityMessenger = null ;
